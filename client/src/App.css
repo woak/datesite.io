@@ -1,0 +1,11 @@
+/* TODO: FOR BUGFIXING */
+/* * { border: 2px solid red} */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  height: 100vh;
+  background-color: white;
+}
